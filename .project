@@ -3,6 +3,7 @@
 	<name>opus-web-Jboss</name>
 	<comment></comment>
 	<projects>
+		<project>opus-ejb</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
